@@ -177,7 +177,7 @@ int mod(int a, int b)
 	return a % b;
 }
 
-int (*fun[])(int, int) = {add, sub, mul, div, mod};
+int (*fun[])(int, int) = {add, sub, mul, div, mod};//函数指针数组
 
 int main(int argc, const char *argv[])
 {
