@@ -1,0 +1,48 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CC	Makefile	/^CC = gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS 	= -Wall -g$/;"	m
+ITEM	std.c	3;"	d	file:
+LDFLAGS	Makefile	/^LDFLAGS = -lm$/;"	m
+LEN	fgets.c	4;"	d	file:
+MAXLINE	err_sys.c	7;"	d	file:
+MAX_SIZE	log.c	6;"	d	file:
+average	std.c	/^    double average;$/;"	m	struct:__anon2	file:
+cp_by_char	cp.c	/^void cp_by_char(FILE *fpr, FILE *fpw)$/;"	f
+cp_by_rec	cp.c	/^void cp_by_rec(FILE *fpr, FILE *fpw)$/;"	f
+cp_by_str	cp.c	/^void cp_by_str(FILE *fpr, FILE *fpw)$/;"	f
+display	std.c	/^void display(std_t *stdp, int len)$/;"	f
+eng	fscanf.c	/^    unsigned math, eng;$/;"	m	struct:__anon1	file:
+eng	std.c	/^    unsigned math, eng;$/;"	m	struct:__anon2	file:
+err_sys	err_sys.c	/^void err_sys(const char *fmt,...)$/;"	f
+get_info	std.c	/^std_t *get_info(FILE *fp, std_t *stdp, int *lenp)$/;"	f
+get_record	fscanf.c	/^void get_record(std_t std[], int len)$/;"	f
+id	fscanf.c	/^    unsigned int id;$/;"	m	struct:__anon1	file:
+id	std.c	/^    unsigned id;$/;"	m	struct:__anon2	file:
+insert	std.c	/^void insert(std_t *stdp, int len, FILE *fp)$/;"	f
+log	log.c	/^void log(char *str)$/;"	f
+main	cp.c	/^int main(int argc, char *argv[])$/;"	f
+main	err_sys.c	/^int main(int argc, char *argv[])$/;"	f
+main	fgets.c	/^int main(int argc, char *argv[])$/;"	f
+main	fscanf.c	/^int main(void)$/;"	f
+main	log.c	/^int main(void)$/;"	f
+main	std.c	/^int main(void)$/;"	f
+math	fscanf.c	/^    unsigned math, eng;$/;"	m	struct:__anon1	file:
+math	std.c	/^    unsigned math, eng;$/;"	m	struct:__anon2	file:
+name	fscanf.c	/^    char name[20];$/;"	m	struct:__anon1	file:
+name	std.c	/^    char name[20];$/;"	m	struct:__anon2	file:
+show_msg	std.c	/^void show_msg(int sign)$/;"	f
+sort	std.c	/^void sort(std_t *stdp, int len, int sign)$/;"	f
+src	Makefile	/^src 	= $(wildcard *.c)$/;"	m
+std_t	fscanf.c	/^}std_t;$/;"	t	typeref:struct:__anon1	file:
+std_t	std.c	/^}std_t;$/;"	t	typeref:struct:__anon2	file:
+sys_err	cp.c	/^void sys_err(const char *msg)$/;"	f
+sys_err	fscanf.c	/^void sys_err(const char *msg)$/;"	f
+sys_err	log.c	/^void sys_err(const char *str)$/;"	f
+sys_err	std.c	/^void sys_err(const char *msg)$/;"	f
+target	Makefile	/^target 	= $(patsubst %.c, %, $(src))$/;"	m
+write_to_file	fscanf.c	/^void write_to_file(std_t std[], int len, FILE *fp)$/;"	f
