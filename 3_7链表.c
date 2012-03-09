@@ -295,6 +295,7 @@ node_t *link_remove(node_t *head, int val)
 	if(head == NULL)
 		return NULL;
 	if(head->data == val){
+		head = head->next;
 		return head;		
 	}
 	for(pre = head, cur = head->next; cur != NULL; pre = pre->next, cur = cur->next){
