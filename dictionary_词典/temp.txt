@@ -1,0 +1,290 @@
+#haha
+Trans:heihei@hoohoo
+#hanhan
+Trans:yueyue
+#hehe
+Trans:smile
+#yueyue
+Trans:hanhan
+#酢浆草
+Trans:creeping oxalis
+#酰胺
+Trans:acid amides@amide
+#酰胺酶
+Trans:amidase
+#酩酊
+Trans:be dead drunk
+#酩酊大醉
+Trans:as drunk as a lord
+#酯化
+Trans:esterification
+#酯酶
+Trans:esterase@lipase
+#醍醐
+Trans:finest cream
+#醍醐灌顶
+Trans:be filled with wisdom@be enlightened@suddenly feel refreshed
+#醪糟
+Trans:fermented glutinous rice
+#趸船
+Trans:wharfboat@pontoon@warehouse boat@boat warehouse
+#蹙额
+Trans:knit one's brows@frown
+#蹩脚
+Trans:inferior@shoddy@poor@incompetent@knock-kneed@cheap
+#趵突泉
+Trans:Spouting Spring
+#趺坐
+Trans:sit cross-legged
+#跄跄
+Trans:in rhythm
+#跄踉
+Trans:stagger
+#跖骨
+Trans:metatarsal bones
+#跗节
+Trans:digitus@dactylus@tarsus
+#跏趺
+Trans:sit crosslegged
+#跛行
+Trans:lameness@claudication@limp@limping@walk lame
+#跛子
+Trans:lame person@cripple@lameter
+#跛足
+Trans:cyllopodia@crooked-foot
+#跷跷板
+Trans:seesaw
+#跷蹊
+Trans:fishy@dubious
+#踉跄
+Trans:stagger
+#踉踉跄跄
+Trans:stumble along@@stumbling and wavering
+#踝骨
+Trans:ankle bone
+#踝关节
+Trans:ankle@ankle joint
+#踟蹰
+Trans:hesitate@waver@tarry and not go forward
+#踮着脚
+Trans:tiptoe
+#踯躅
+Trans:walk to and fro@loiter around
+#蹀躞
+Trans:pace up and down@pace about@walk in small steps
+#踽踽
+Trans:alone@walk in solitude
+#踱来踱去
+Trans:walk to and fro@
+#蹉跎
+Trans:waste time@idle away
+#蹂躏
+Trans:trample on@ravage@make havoc of@crush under one's feet@devastate
+#蹑手蹑脚
+Trans:do things stealthily@walk gingerly@walk on tiptoe@
+#蹒跚
+Trans:walk haltingly@totter@limp@hobble@stagger@stump@lurch@flounder@blunder@titubate@stumble@limousine@falter@joll dodder
+#蹊径
+Trans:of one's own
+#蹊跷
+Trans:odd@queer@fishy@strange
+#貂皮
+Trans:fur or pelt of marten@marten@mart
+#貂皮大衣
+Trans:marten coat
+#貂裘
+Trans:marten coat
+#貔貅
+Trans:a mythical wild animal@brave troops
+#觥筹交错
+Trans:toast each other@The cups go gaily round.
+#訾议
+Trans:criticize@impeach@censure@unimpeachable
+#霏霏
+Trans:falling thick and fast
+#霎时间
+Trans:in a twinkling@in a split second@in a jiffy@in an instant
+#霎时之间
+Trans:in a wink@for a moment@momentarily
+#霪雨
+Trans:excessive rain
+#霭霭
+Trans:cloudy@snowing hard
+#霰弹
+Trans:grapeshot@shot
+#龃龉
+Trans:discord
+#龇牙
+Trans:snag@
+#龇牙咧嘴
+Trans:show one's teeth@look fierce@grimace in pain
+#龈炎
+Trans:oulitis@ulitis@gingivitis
+#龌龊
+Trans:dirty@filthy@foul
+#黾勉
+Trans:work hard@try hard
+#隽永
+Trans:meaningful
+#雎鸠
+Trans:osprey@fish hawk
+#瞿麦
+Trans:fringed pink@dianthus superbus
+#瞿昙
+Trans:a surname
+#鏊子
+Trans:griddle
+#鎏金
+Trans:gilding
+#鱿鱼
+Trans:squid@calamary
+#鲇鱼
+Trans:catfish
+#鲈鱼
+Trans:bass@perch
+#鲐鱼
+Trans:matreel
+#鲑鱼
+Trans:trout
+#鲟鱼
+Trans:sturgeon
+#鲣鱼
+Trans:striped tuna@aku
+#鲥鱼
+Trans:hilsa herring@reeves shad
+#鲨鱼
+Trans:shark
+#鲫鱼
+Trans:crucian@sharksucker
+#鲮鱼
+Trans:dace
+#鲱鱼
+Trans:herring@Pacific herring@Clupea pallasi
+#鲲鹏
+Trans:roc
+#鲳鱼
+Trans:silvery pomfret@butterfish
+#鳄鱼
+Trans:crocodile@alligator
+#鳊鱼
+Trans:bream@Parabramis pekinensis
+#鳏夫
+Trans:an old wifeless man@bachelor or widower
+#鳏寡孤独
+Trans:@
+#鳕鱼
+Trans:cod@codfish
+#鳗鲡
+Trans:eel@anguilla japonica
+#鳝鱼
+Trans:eel
+#鳟鱼
+Trans:trout
+#鞑靼
+Trans:Tartar@Tatar
+#鞑靼海峡
+Trans:Tartar Strait
+#鞑靼人
+Trans:Tartar
+#鞣革
+Trans:tanning
+#鞣剂
+Trans:tanning agent
+#鞣料
+Trans:tanning material@tan@tannin
+#鞣酸
+Trans:tannin@gallic acid@digallic acid@tannic acid
+#鞣制
+Trans:tanning@tannage@taw
+#鞣质
+Trans:tannin
+#骷髅
+Trans:human skeleton@human skull@death's head
+#骶骨
+Trans:sacrum
+#髂骨
+Trans:ilium@iliac bone
+#髋部
+Trans:hip
+#髋骨
+Trans:innominatum@innominate bone@pinbone@hipbone@os coxae
+#髋关节
+Trans:articulatio coxae@hip joint
+#髋臼
+Trans:acetabular bone@acetabulum
+#髌骨
+Trans:patella@scutum@kneecap
+#魅力
+Trans:glamour@charm@enchantment@fascination@charisma@spell@winsomeness@witchcraft@witchery
+#魍魉
+Trans:demons and monsters
+#魑魅魍魉
+Trans:evil spirits@demons and monsters@
+#饕餮
+Trans:@voracious eater@glutton@gourmand@a surname
+#饕餮纹
+Trans:taotie design
+#鬈曲
+Trans:crimp@crinkle@curl@crinkled wool
+#鬓发
+Trans:earlock@hair on the temples@hoary-haired
+#鬓角
+Trans:temples@hair on the temples
+#鬣狗
+Trans:hyena@hyaena@hyaenid
+#麾下
+Trans:general@commander@Your Excellency@
+#麂皮
+Trans:chamois@chamois leather@chammy
+#麂子
+Trans:muntjac@barking deer
+#麇集
+Trans:swarm@flock together
+#麋鹿
+Trans:mi-lu@David's deer
+#麒麟
+Trans:kylin@unicorn
+#鏖兵
+Trans:bloody battle
+#鏖战
+Trans:fight hard@engage in fierce battle
+#麝鼠
+Trans:muskrat@Ondatra zibethica
+#麝香
+Trans:musk
+#麟凤
+Trans:rare treasures
+#黝黑
+Trans:dark@swarthy
+#黝铜矿
+Trans:tetrahedrite
+#黩武
+Trans:militaristic@warlike@bellicose@belligerant
+#黧黑
+Trans:dark
+#黯淡
+Trans:dim@dismal@dull@faint@gloomy
+#黯淡无光
+Trans:gloomy@somber@dismal
+#黯然
+Trans:dim@faint@be eclipsed@dejected@downcast@low-spirited@gloomy@
+#黯然神伤
+Trans:feel dejected
+#黯然失色
+Trans:be cast into the shade@fall into the shadow@lose brilliancy@pale by comparison@pale into insignificance@put sb. to shame@suffer an eclipse@tarnish@take shine off
+#黯然销魂
+Trans:beside oneself@grief-stricken@deeply affected@sorrow at parting
+#鼢鼠
+Trans:sokhor@zokor
+#鼯鼠
+Trans:flying squirrel
+#鼹鼠
+Trans:mole
+#鼷鼠
+Trans:house mouse@chevrotain
+#鼾声
+Trans:snore@sound of snoring
+#鼾声大作
+Trans:stertorous breathing@snore terribly@
+#鼾声如雷
+Trans:snore like thunder@snore thunderously@thunderous snores
