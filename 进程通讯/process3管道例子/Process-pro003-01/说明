@@ -1,0 +1,9 @@
+无名管道
+process_p 无名管道 单工方式（有一个管道）
+process_p_p 无名管道 双工方式（有两个管道）
+
+
+有名管道
+-----process_m 有名管道写-------|二者配合，运行process_n中的文件，等待输入，再运行process_m中的文件写入run
+-----process_n 有名管道读-------|此时在process_n中接受到run字符串，由strcmp比较相等，执行../process_p_p/process_p
+                                 命令。
